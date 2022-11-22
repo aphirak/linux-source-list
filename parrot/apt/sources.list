@@ -1,0 +1,2 @@
+deb https://mirror.kku.ac.th/parrot lts main contrib non-free
+deb-src https://mirror.kku.ac.th/parrot lts main contrib non-free
